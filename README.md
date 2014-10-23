@@ -14,4 +14,4 @@ Tianqi Zhou
 
 Yuming Zhang  
 
-Zhenqing Luo  
+Zhenqiang Luo  
